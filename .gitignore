@@ -18,6 +18,10 @@ dist-ssr
 .idea
 .DS_Store
 *.suo
+.env.local
+git add .gitignore
+git commit -m "add .env.local to gitignore"
+
 *.ntvs*
 *.njsproj
 *.sln
