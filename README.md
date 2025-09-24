@@ -1,0 +1,2 @@
+# School-swap
+An innovative study and resource-sharing app designed to be both academically useful and socially engaging, connecting students to share resources and knowledge.
